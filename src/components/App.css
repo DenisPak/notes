@@ -1,0 +1,21 @@
+.App {
+  padding: 50px 100px;
+}
+
+@media only screen and (max-width: 600px) {
+  .App {
+    padding: 50px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .App {
+    padding: 30px;
+  }
+}
+
+@media only screen and (max-width: 330px) {
+  .App {
+    padding: 20px;
+  }
+}
